@@ -12,5 +12,5 @@ depend only on observed values, and ‘missing  not  at  random’ (MNAR) in whi
 The MCAR and MAR cases are often referred to as ‘ignorable’ cases, since  the  missing  values  can  be  estimated  from  
 the sample  when  modelling  the  data  generator.   On  the other  hand  when  values  are  MNAR  one  cannot  relyon sample information by itself, 
 since the presence or absence  of  a  variable  may  depend  on  its  own  unobserved  value,  for  example.   
-Various  approaches  havebeen proposed to manage the problem effectively, especially from the perspective of modelling.
+Various  approaches  have been proposed to manage the problem effectively, especially from the perspective of modelling.
 
