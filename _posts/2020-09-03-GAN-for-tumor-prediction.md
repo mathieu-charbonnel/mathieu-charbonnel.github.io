@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mahieu Charbonnel, GAN for tumor prediction"
+title: "GAN for tumor prediction"
 date: 2020-09-03
 ---
 This project aims to predict brain glioma growth from a baseline MRI. It builds upon
