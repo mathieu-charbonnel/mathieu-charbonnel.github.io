@@ -1,3 +1,5 @@
 _site/
 *.[oa]
 *~
+.jekyll-cache/
+Gemfile.lock
