@@ -1,8 +1,11 @@
 <nav>
     <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/cv">CV</a></li>
-        <li><a href="/projects">Projects</a></li>
+      {% for item in site.data.navigation %}
+      <li>
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
+        {{ item.name }}
+      </a>
+      </li>
+      {% endfor %}
     </ul>
 </nav>
