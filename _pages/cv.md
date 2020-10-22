@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: CV
-permalink: /cv
+permalink: /cv/
 ---
 * 30 rue du Professeur Moreau
 * 33200 Bordeaux FRANCE

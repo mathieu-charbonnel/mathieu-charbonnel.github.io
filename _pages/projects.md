@@ -1,5 +1,5 @@
 ---
 layout: projects
 title: My projects
-permalink: /projects
+permalink: /projects/
 ---
