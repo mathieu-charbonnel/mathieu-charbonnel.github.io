@@ -1,5 +1,4 @@
 body {
-    margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -8,6 +7,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     font-size: 1.5em;
+    margin-left: 15rem
 }
 nav ul li, footer ul li {
     display: inline;
@@ -44,3 +44,37 @@ ul.posts li {
 }
 
 .current { color: green; }
+
+home body {
+    background-image: url("../img/prof_pic.jpg");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+    background-position: center left; /* Le fond sera placé en haut à droite */
+    background-color: black;
+    color: white;
+    opacity: 0.3;
+    background-color: rgb(255,0,0); /* Pour les navigateurs anciens */
+    background-color: rgba(255,0,0,0.5); /* Pour les navigateurs plus récents */
+}
+
+.blurb {}
+
+
+.container {
+  margin-left: 16rem;
+  max-width: $max-content-width;
+  height:auto;
+  min-height: 400px;
+}
+
+
+.leftcol {
+    margin-left: 2rem;
+    width:180px;
+    height:100%;
+    float:left;
+ }
+
+ .leftcol img{
+   margin-left: 10px;
+  }
