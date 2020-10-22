@@ -3,12 +3,6 @@ layout: cv
 title: CV
 permalink: /cv/
 ---
-* 30 rue du Professeur Moreau
-* 33200 Bordeaux FRANCE
-* Mobile : +33 6 41 04 16 33
-* Email : mathieu.charbonnel@polytechnique.edu
-* Driver’s License
-
 ### Education
 #### 2019-2020
 Master of Science at Imperial College: Artificial Intelligence and Machine Learning

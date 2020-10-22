@@ -36,13 +36,13 @@ p {
 
 nav {
       border-bottom: 1px solid #d5d5d5;
-      margin-bottom: 2em;
+      margin-bottom: 1em;
       margin-left: 8rem;
 }
 
 footer {
     margin-left: 8rem;
-    margin-top: 2em;
+    margin-top: 1em;
     border-top: 1px solid #d5d5d5;
     font-size: 1.em;
 }
@@ -56,7 +56,7 @@ ul.posts li {
     list-style: none;
 }
 
-.current { color: rgba(84, 114, 174,0.5); }
+.current { color: rgba(84, 114, 174,0.8); }
 
 home body {
     background-image: url("../img/prof_pic.jpg");
@@ -71,13 +71,13 @@ home body {
 }
 
 .blurb {
-  padding: 15px;
+  padding: 10px;
   margin-left: 8em;
 }
 
 
 .container {
-  padding: 15px;
+  padding: 10px;
   min-height: 18em;
   margin-left: 2em;
 
@@ -91,12 +91,13 @@ home body {
 
 .leftcol {
   flex: none;
-  width: 180px;
+  width: 200px;
   background: white;
-  margin-left: 4rem;
+  margin-left: 2rem;
+  font-size:0.7em;
  }
 
  .leftcol img{
-   margin-left: 20px;
+   margin-left: 36px;
    border-radius: 50%;
   }
