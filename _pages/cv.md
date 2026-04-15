@@ -3,48 +3,48 @@ layout: cv
 title: CV
 permalink: /cv/
 ---
+### Professional Experience
+
+#### Datadog <span class="company-detail">Paris · Jun 2024 – Present</span>
+
+**Deep Learning Engineer** <span class="company-detail">Sep 2025 – Present</span>
+Mamba model applied real-time on log sequences. Scaling it via various innovative techniques.
+
+**Back End Engineer** <span class="company-detail">Jun 2024 – Sep 2025</span>
+Engineering for ML-based real-time detection of attacks — Cloud SIEM.
+Primary on-call several days/nights per month.
+
+#### Valeo <span class="company-detail">Paris · Dec 2020 – Jun 2024</span>
+
+**Senior Deep Learning Engineer** <span class="company-detail">Sep 2022 – Jun 2024</span>
+Led a small team of research engineers. Developed a deep learning library for training multimodal and multitask vision models. Models went into production, embedded in customer cars.
+
+**Deep Learning Engineer** <span class="company-detail">Dec 2020 – Sep 2022</span>
+Autonomous driving projects for car manufacturers. Computer vision.
+
+#### Imperial College London <span class="company-detail">Apr 2020 – Sep 2020</span>
+
+**Research Intern**
+Generative adversarial networks applied to brain tumour evolution prediction on MRI data.
+
+---
+
 ### Education
-#### 2019-2020
-Master of Science at Imperial College: Artificial Intelligence and Machine Learning
-#### 2018-2019  
-3nd Year at Ecole Polytechnique, one of France’s top engineering Grandes Ecoles:
-* Specialization in Machine Learning and Data Science: mathematics and computer science
 
-#### 2017-2018
-2nd Year at Ecole Polytechnique:
-* Computer science, economics, mechanics, and applied mathematics.
-*  Bachelor of Philosophy: distance learning at Paris Nanterre University.
+#### 2019 – 2020
+**Imperial College London** — MSc Artificial Intelligence and Machine Learning
 
-#### 2016-2017
-1st Year at Ecole Polytechnique: Common Scientific core
-#### 2013-2016  
-Prep School focused on Mathematics, Physics and Computer Science
+#### 2016 – 2020
+**Ecole Polytechnique** — Ingenieur Polytechnicien
+3rd year specialization in Machine Learning and Data Science.
 
-### Professional experience
-#### 2020
-5-month research internship at Imperial College in London about Generative Adversarial Networks applied to tumor prediction
-#### 2019
-4-month research internship at Waikato University in New Zealand about statistical
- analysis with missing data
-#### 2018
- 3-month internship at Nomagic, polish start-up of 15 members focused on AI and robotics.
-#### 2017-2018
-Treasurer of the Styx, major Association of Ecole Polytechnique, managing an annual
- budget of 100k euros (“Outstanding Investment” given by the administration)
-#### 2017
- 3-month internship in High School: Substitute teacher, support courses, preparation for
- competitions in mathematics
-#### 2016
-4-month of military training as a firefighter of Paris. First aid training.
+#### 2013 – 2016
+**Lycee Stanislas** — Prep school focused on Mathematics, Physics and Computer Science.
 
-### Specific Skills
-Computer skills: Language Proficiency in Java, Python, Caml and SQL.
-   Computational and theoretical computer skills (assembly language). Basic web development.
-   Languages
-   French: Native Tongue
-   English: Fluent (TOEFL 115/120)
-   German: B2 level
-Hobbies
-Music (Piano for 10 years, guitar, Mix of Electronic music)
-Sport: Handball, Surf, Mountain Hiking
-Board Games
+---
+
+### Skills
+
+**Languages:** French (native), English (fluent, TOEFL 115/120), German (B2)
+
+**Technical:** Python, PyTorch, Go, SQL. Deep learning, computer vision, NLP, real-time systems.

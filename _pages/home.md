@@ -3,8 +3,8 @@ layout: home
 title: Mathieu Charbonnel
 permalink: /
 ---
-My name is Mathieu Charbonnel and I am passionate about Machine Learning.
+I am a Deep Learning Engineer at Datadog in Paris, working on real-time ML applied to log and trace/spans sequences for anomaly detection.
 
-I have studied at Ecole Polytechnique as Ingénieur Polytechnicien. Then I did a Machine Learning and Artificial Intelligence Master at Imperial College. [My most important projects are described here](/projects).
+Previously, I led a team of research engineers at Valeo building deep learning models for autonomous driving, deployed in production vehicles.
 
-I am now looking for a job in AI in Paris, London or New York.
+I hold an engineering degree (Ingenieur Polytechnicien) from Ecole Polytechnique and a Master's in AI and Machine Learning from Imperial College London. [See my projects](/projects) and [CV](/cv/).
