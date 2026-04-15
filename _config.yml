@@ -1,6 +1,7 @@
 name: Mathieu Charbonnel
 description: Deep Learning Engineer at Datadog. Ecole Polytechnique, Imperial College London.
 markdown: kramdown
+theme: null
 permalink: /blog/:year/:month/:day/:title
 include: ['_pages']
 url: https://mathieu-charbonnel.github.io
